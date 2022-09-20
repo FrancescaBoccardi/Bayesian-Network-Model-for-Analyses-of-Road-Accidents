@@ -6,7 +6,7 @@ of injuries. For the purpose of analyzing road accidents causes, the Bayesian ne
 tool, able to predict the probability of injuries in certain road traffic conditions and to find the
 critical states combination which may leads to unsafe situations. 
 
-This repository contains a model for road accident, formulated through a Bayesian network, starting from a suitable data set.
+This repository contains a model for road accidents, formulated through a Bayesian network, starting from a suitable data set.
 Then, some inferential analyses on accident severities have been conducted, using both exact and approximate inference methods. 
 
 ## Repository structure
